@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hasanautomation.github.io/reading-list-react/static/css/main.d5b773ab.chunk.css",
+    "main.js": "/hasanautomation.github.io/reading-list-react/static/js/main.cdbc3893.chunk.js",
+    "main.js.map": "/hasanautomation.github.io/reading-list-react/static/js/main.cdbc3893.chunk.js.map",
+    "runtime-main.js": "/hasanautomation.github.io/reading-list-react/static/js/runtime-main.ad649ef6.js",
+    "runtime-main.js.map": "/hasanautomation.github.io/reading-list-react/static/js/runtime-main.ad649ef6.js.map",
+    "static/js/2.44960ffa.chunk.js": "/hasanautomation.github.io/reading-list-react/static/js/2.44960ffa.chunk.js",
+    "static/js/2.44960ffa.chunk.js.map": "/hasanautomation.github.io/reading-list-react/static/js/2.44960ffa.chunk.js.map",
+    "index.html": "/hasanautomation.github.io/reading-list-react/index.html",
+    "precache-manifest.76c86ecfeb5adbd478f533d7e5aa837f.js": "/hasanautomation.github.io/reading-list-react/precache-manifest.76c86ecfeb5adbd478f533d7e5aa837f.js",
+    "service-worker.js": "/hasanautomation.github.io/reading-list-react/service-worker.js",
+    "static/css/main.d5b773ab.chunk.css.map": "/hasanautomation.github.io/reading-list-react/static/css/main.d5b773ab.chunk.css.map",
+    "static/js/2.44960ffa.chunk.js.LICENSE.txt": "/hasanautomation.github.io/reading-list-react/static/js/2.44960ffa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad649ef6.js",
+    "static/js/2.44960ffa.chunk.js",
+    "static/css/main.d5b773ab.chunk.css",
+    "static/js/main.cdbc3893.chunk.js"
+  ]
+}
